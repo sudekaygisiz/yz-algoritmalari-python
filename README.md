@@ -1,4 +1,4 @@
-# 🧠 Python ile Makine Öğrenmesi Algoritmaları ve Uygulamaları
+# Python ile Makine Öğrenmesi Algoritmaları ve Uygulamaları
 
 Bu repository, makine öğrenmesi temelleri üzerine aldığım eğitim boyunca öğrendiğim algoritmaların teorik altyapılarını ve Python (Scikit-Learn) ile yapılmış pratik uygulamalarını içermektedir. Repoda, temel regresyon modellerinden karmaşık kümeleme ve boyut indirgeme algoritmalarına kadar geniş bir yelpazede kod örnekleri bulunmaktadır.
 
